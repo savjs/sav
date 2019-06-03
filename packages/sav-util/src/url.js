@@ -1,9 +1,3 @@
-/*
- * @Description      URL解析
- * @File             url.js
- * @Auth             jetiny@hfjy.com
- */
-
 // jsuri https://code.google.com/r/jonhwendell-jsuri/
 // https://username:password@www.test.com:8080/path/index.html?this=that&some=thing#content
 const REKeys = ['source', 'protocol', 'authority', 'userInfo', 'user', 'password', 'host', 'port', 'relative', 'path', 'directory', 'file', 'query', 'anchor']
